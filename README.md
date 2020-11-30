@@ -29,6 +29,27 @@ Responsible for creating automated test for the company's TMS (Transportation Ma
 
 ## Technical Skills
 
+* JavaScript
+* TypeScript
+* Angular
+* Node.js
+* MongoDB
+* React
+
 ## Other Skills
 
+* Fast learner
+* Great communicator
+* Results oriented
+* Responsable
+* Teamworker
+* Accountability
+* Self-organized
+
 ## Tools
+
+* Git
+* Docker
+* MongoDB
+* Azure
+* Jira
